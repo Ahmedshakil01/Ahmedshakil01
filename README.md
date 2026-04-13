@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Shakil Ahmed</h1>
-<h3 align="center">🚀 PHP Laravel Developer | Web Application Specialist</h3>
+<h3 align="center">🚀 Laravel & React Developer | Microservices Enthusiast</h3>
 
 <p align="center">
   <a href="https://github.com/Ahmedshakil01">
@@ -10,18 +10,18 @@
 ---
 
 ## 🧑‍💻 About Me
-- 💼 Professional **PHP & Laravel Developer**
-- 🔥 Specialized in building **custom web applications & APIs**
-- ⚡ Fast delivery & clean, scalable code
-- 🌱 Currently learning **AWS & advanced backend architecture**
-- 🎯 Focused on delivering **client-ready production systems**
+- 💼 Professional **Laravel & React Developer**
+- ⚙️ Working with **Microservices Architecture**
+- 🔥 Building scalable, secure & high-performance web applications
+- 🌱 Currently exploring **AWS & system design**
+- 🎯 Focused on delivering **production-ready solutions for clients**
 
 ---
 
-## 🚀 Services I Offer
-- ✅ Laravel Website Development  
-- ✅ Custom Web Application  
-- ✅ REST API Development & Integration  
+## 🚀 What I Do
+- ✅ Full Stack Web Application (Laravel + React)  
+- ✅ Microservices Development & API Integration  
+- ✅ LMS & Enterprise System Development  
 - ✅ Bug Fixing & Performance Optimization  
 - ✅ Admin Panel / Dashboard Development  
 
@@ -30,16 +30,24 @@
 ## 🛠️ Tech Stack
 
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=php,laravel,mysql,js,html,css,bootstrap,git,github,vscode" />
+  <img src="https://skillicons.dev/icons?i=php,laravel,react,mysql,js,html,css,bootstrap,git,github,vscode" />
 </p>
 
 ---
 
-## 📌 Featured Projects
-- 🔹 **Inspection Management System (Laravel)**  
-- 🔹 **Dynamic Reporting System (Laravel + MySQL)**  
-- 🔹 **REST API with Authentication (Sanctum)**  
-- 🔹 **Multi-role Admin Dashboard**  
+## 🌟 Featured Projects
+
+### 🔹 Government Microservice Platform  
+🔗 https://services.most.gov.bd/  
+💡 Built with **Laravel (Microservices) + React**  
+🚀 Scalable architecture with multiple services & API communication  
+
+---
+
+### 🔹 LMS Website (Saifur's)  
+🔗 https://saifurs.com.bd/  
+💡 Developed using **Laravel**  
+📚 Complete Learning Management System with dynamic features  
 
 ---
 
@@ -55,11 +63,8 @@
 
 ---
 
-
-
 ## 🌐 Connect With Me
-- 💼 https:/www.linkedin.com/in/shakilahmed2
-- 🌍 Portfolio: https://yourwebsite.com  
+- 💼 LinkedIn: https://www.linkedin.com/in/shakilahmed2  
 - 📺 YouTube: https://www.youtube.com/@ShaRit9  
 
 ---
@@ -69,15 +74,6 @@
 
 ---
 
-<h3 align="center">⭐ Don't forget to star my repositories if you like my work!</h3>  
-- 🌍 Portfolio: https://yourwebsite.com  
-- 📺 YouTube: https://www.youtube.com/@ShaRit9  
-
----
-
-## 📫 Contact
-  
-
----
+<h3 align="center">💡 Open for freelance work & remote projects</h3>
 
 <h3 align="center">⭐ Don't forget to star my repositories if you like my work!</h3>
