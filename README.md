@@ -48,31 +48,11 @@
 🔗 https://saifurs.com.bd/  
 💡 Developed using **Laravel**  
 📚 Complete Learning Management System with dynamic features  
-
 ---
-
-## 📊 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Ahmedshakil01&show_icons=true&theme=tokyonight" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ahmedshakil01&layout=compact&theme=tokyonight" />
-</p>
-
----
-
 ## 🌐 Connect With Me
 - 💼 LinkedIn: https://www.linkedin.com/in/shakilahmed2  
 - 📺 YouTube: https://www.youtube.com/@ShaRit9  
 
----
-
-## 📫 Contact
-
-
----
 
 <h3 align="center">💡 Open for freelance work & remote projects</h3>
 
